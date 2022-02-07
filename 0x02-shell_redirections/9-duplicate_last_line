@@ -1,2 +1,2 @@
-"!/bin/bash
-awk tail -1 iacta
+#!/bin/bash
+awk tail -1 iacta >> iacta
